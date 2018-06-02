@@ -4,7 +4,7 @@ public class Palindrome {
 	  
 		 public static void main(String args[]){  
 		  int a,sum=0,temp;    
-		  int n=454; 
+		  int n=555; 
 		  
 		  temp=n;    
 		  while(n>0){    
